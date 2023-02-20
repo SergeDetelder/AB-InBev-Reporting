@@ -1,0 +1,42 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Drinkmaster TEST",
+            "server": "http://srv-nav02",
+            "serverInstance": "BC_Drinkmaster_Test_V16",
+            "tenant": "default",
+            "port": 8024,
+            "launchBrowser": true,
+            "authentication": "Windows",
+            "schemaUpdateMode": "Synchronize",
+            "breakOnError": true
+        },
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Drinkmaster LIVE",
+            "server": "http://srv-nav02",
+            "serverInstance": "BC_Drinkmaster_Live_V16",
+            "tenant": "default",
+            "port": 8014,
+            "launchBrowser": true,
+            "authentication": "Windows",
+            "schemaUpdateMode": "Synchronize",
+            "breakOnError": true
+        },
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Publish Docker",
+            "server": "http://Drinkmaster161",
+            "serverInstance": "BC",
+            "port": 7049,
+            "authentication": "UserPassword",
+            "schemaUpdateMode": "Synchronize",
+            "breakOnError": true
+        }
+    ]
+}

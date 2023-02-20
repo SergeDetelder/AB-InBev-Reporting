@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-BE" original="AB InBev Reporting">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3630437796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB InBev Buffer</source>
+          <target>AB InBev Buffer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 890396819 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BillTo_Address</source>
+          <target>BillTo_Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field BillTo_Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 1695608876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BillTo_City</source>
+          <target>BillTo_City</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field BillTo_City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 761728006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BillTo_ID</source>
+          <target>BillTo_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field BillTo_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 1883467004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BillTo_Name</source>
+          <target>BillTo_Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field BillTo_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 2000620776 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BillTo_VAT</source>
+          <target>BillTo_VAT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field BillTo_VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 3164819304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BillTo_ZIP</source>
+          <target>BillTo_ZIP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field BillTo_ZIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>N° séquence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 2833163507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ExtractionDate</source>
+          <target>ExtractionDate</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ExtractionDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 4112877437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemDescription</source>
+          <target>ItemDescription</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ItemDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 332802016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ItemNo</source>
+          <target>N° article</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ItemNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 1007106522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Liter</source>
+          <target>Liter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field Liter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Quantité</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 218401924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShipTo_Address</source>
+          <target>ShipTo_Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ShipTo_Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 3825981907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShipTo_City</source>
+          <target>ShipTo_City</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ShipTo_City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 978470509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShipTo_ID</source>
+          <target>ShipTo_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ShipTo_ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 2523183427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShipTo_Name</source>
+          <target>ShipTo_Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ShipTo_Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3630437796 - Field 2996788535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ShipTo_ZIP</source>
+          <target>ShipTo_ZIP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ABInBevBuffer_ABI - Field ShipTo_ZIP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3331020258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB InBev Reporting</source>
+          <target>Rapportage AB InBev</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ABInBevReporting_ABI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3331020258 - Control 4091577235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extraction Date</source>
+          <target>Extraction Date</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ABInBevReporting_ABI - Control Extraction Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3331020258 - Control 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target>Date début</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report ABInBevReporting_ABI - Control Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Query 3331020258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AB InBev Reporting</source>
+          <target>Rapportage AB InBev</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Query ABInBevReporting_ABI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 56621923 - Field 3331020258 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>AB InBev Reporting</source>
+          <target>Rapportage AB InBev</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Customer_ABI - Field ABInBevReporting_ABI - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3340552732 - Field 3402689603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>AB InBev Reporting UoM</source>
+          <target>AB InBev unité de rapportage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Item_ABI - Field ABInBevReportingUoM_ABI - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
